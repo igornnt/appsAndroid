@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="relator">Relator</string>
+    <string name="t_tulo_do_item">Título do Item</string>
+    <string name="vota_o_do_item_de_pauta_01">Votação do Item de Pauta 01</string>
+    <string name="descri_odescri_odescri_odescri_odescri_o">DescriçãoDescriçãoDescriçãoDescriçãoDescrição</string>
+    <string name="absten_o">Abstenção</string>
+    <string name="a_favor">A favor</string>
+    <string name="contra">Contra</string>
+    <string name="confirmar_voto">Confirmar Voto</string>
+</resources>
